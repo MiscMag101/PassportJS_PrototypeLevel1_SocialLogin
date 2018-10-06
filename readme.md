@@ -42,6 +42,6 @@ If you don't have a local DNS, edit your host file to add static entry for "app.
 $ PORT=3000 HOST=app.example.com CLIENT_ID=xxxxxxxxxxxxxxxx CLIENT_SECRET=yyyyyyyyyyyyyyyyyyyyy npm start
 ```
 
-# Test
+## Test
 
 Open [https://app.example.com:3000/signin/github](https://app.example.com:3000/signin/github) and accept the authorization request on GitHub
